@@ -1,0 +1,8 @@
+gg;gg;gg;gg;gg;gg;gg;gg;KLIJENT;gg;POVECANJE_MASE;True
+llllll;ll;ll;ll;ll;ll;ll;ll;KLIJENT;ll;POVECANJE_MASE;True
+uu;uu;uu;uu;uu;uu;uu;uu;KLIJENT;uu;POVECANJE_MASE;True
+nn;nn;nn;nn;nn;nn;nn;nn;KLIJENT;nn;POVECANJE_MASE;True
+yy;yy;yy;yy;yy;yy;yy;yy;KLIJENT;yy;POVECANJE_MASE;True
+tt;tt;tt;tt;tt;tt;tt;tt;KLIJENT;tt;POVECANJE_MASE;True
+ww;ww;ww;ww;ww;ww;ww;ww;KLIJENT;ww;POVECANJE_KONDICIJE;True
+rr;rr;rr;rr;rr;rr;rr;rr;KLIJENT;rr;SMANJENJE_MASE;True

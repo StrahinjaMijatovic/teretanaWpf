@@ -1,0 +1,5 @@
+ii;ii;ii;ii;ii;ii;ii;ii;TRENER;ii;POVECANJE_MASE;True
+jj;jj;jj;jj;jj;jj;jj;jj;KLIJENT;jj;POVECANJE_MASE;True
+asd;asd;sad;asd;asd;asd;asd;asd;KLIJENT;asd;POVECANJE_MASE;True
+qq;qq;qq;qq;qq;qq;qq;qq;TRENER;qq;POVECANJE_MASE;True
+filip;filipovic;filip@gmail.com;04321;filipova;321;srpski;engleski;TRENER;filip;POVECANJE_MASE;True

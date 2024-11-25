@@ -1,0 +1,16 @@
+gg;gg;gg;gg;gg;gg;gg;gg;KLIJENT;gg;POVECANJE_MASE;True
+kk;kk;kk;kk;kk;kk;kk;kk;TRENER;kk;POVECANJE_MASE;True
+llllll;ll;ll;ll;ll;ll;ll;ll;KLIJENT;ll;POVECANJE_MASE;True
+ii;ii;ii;ii;ii;ii;ii;ii;TRENER;ii;POVECANJE_MASE;True
+uu;uu;uu;uu;uu;uu;uu;uu;KLIJENT;uu;POVECANJE_MASE;True
+nn;nn;nn;nn;nn;nn;nn;nn;KLIJENT;nn;POVECANJE_MASE;True
+zz;zz;zz;zz;zz;zz;zz;zz;ADMINISTRATOR;zz;POVECANJE_MASE;True
+aa;aa;aa;aa;aa;aa;aa;aa;VLASNIK;aa;POVECANJE_MASE;True
+jj;jj;jj;jj;jj;jj;jj;jj;KLIJENT;jj;POVECANJE_MASE;True
+asd;asd;sad;asd;asd;asd;asd;asd;KLIJENT;asd;POVECANJE_MASE;True
+yy;yy;yy;yy;yy;yy;yy;yy;KLIJENT;yy;POVECANJE_MASE;True
+tt;tt;tt;tt;tt;tt;tt;tt;KLIJENT;tt;POVECANJE_MASE;True
+ww;ww;ww;ww;ww;ww;ww;ww;KLIJENT;ww;POVECANJE_KONDICIJE;True
+rr;rr;rr;rr;rr;rr;rr;rr;KLIJENT;rr;SMANJENJE_MASE;True
+qq;qq;qq;qq;qq;qq;qq;qq;TRENER;qq;POVECANJE_MASE;True
+filip;filipovic;filip@gmail.com;04321;filipova;321;srpski;engleski;TRENER;filip;POVECANJE_MASE;True
